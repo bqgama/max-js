@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 import './ExpensesFilter.css';
 
@@ -20,7 +20,7 @@ const ExpensesFilter = (props) => {
         </select>
       </div>
     </div>
-  )
-}
+  );
+};
 
 export default ExpensesFilter;
